@@ -8,9 +8,7 @@
 
 ---
 
-## 🇧🇷 Português
-
-### Descrição
+## Descrição
 
 Este script R foi desenvolvido para buscar metadados de artigos científicos indexados na **OpenAlex** a partir de uma lista de ISSNs de periódicos. Ele é ideal para quem precisa coletar dados bibliométricos em larga escala, como:
 
